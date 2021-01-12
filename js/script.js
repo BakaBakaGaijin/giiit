@@ -9,7 +9,7 @@ function func() {
 let funcUser = func.bind(user);
 funcUser();
 
-
+console.log('test 2' );
 
 
 
